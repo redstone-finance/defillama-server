@@ -22,7 +22,7 @@ Just push your changes to the `master` branch.
 
 ## Filling data
 ```
-# fetch latest adapters (important to run this before any refilling commands)
+# fetch the latest adapters (important to run this before any refilling commands)
 npm run updateAdapters
 
 # fill old historical data
