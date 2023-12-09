@@ -11,7 +11,7 @@ npx ts-node src/cli/users/refillUsers.ts
 ```
 
 ## Refill a single protocol
-This will destroy all info of the protocol before refilling it, so be cautious.
+This will destroy all info on the protocol before refilling it, so be cautious.
 
 ```
 npx ts-node src/cli/users/refillSingleProtocol.ts velodrome
